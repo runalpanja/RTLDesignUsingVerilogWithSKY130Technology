@@ -248,6 +248,9 @@ When we installed 'vsdflow' , Yosys automatically got installed. We are in the Y
 <p align="center">
 <img src="https://user-images.githubusercontent.com/100710081/165798646-c62a7e19-a682-4a31-a15e-6c840a80783f.png" />
 </p>
+
+To synthesize a particular module, we use the 'synth - top' command as follows....
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/100710081/165799518-0b81027c-1b57-4d6e-8b71-705ca37aaa27.png" />
 </p>
