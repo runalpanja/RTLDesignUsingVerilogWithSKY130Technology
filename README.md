@@ -82,7 +82,7 @@ So, this is how we will load the design and check its functionality.
 ![image](https://user-images.githubusercontent.com/100710081/165743595-bf5fd003-cb78-4867-bd41-d72f43d23c2b.png)
 ![image](https://user-images.githubusercontent.com/100710081/165744353-eb4bd0ba-adc1-4962-b820-23a049d26786.png)
 
-In above testbench, we can see instantiation of tb_good_mux.v.
+In the above testbench, we can see instantiation of good_mux.v e.g Instantiate the Unit Under Test (UUT).
 It may kindly be noted that the testbench neither have primary inputs nor primary outputs.
 
 
