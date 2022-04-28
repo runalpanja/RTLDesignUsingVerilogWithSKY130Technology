@@ -46,6 +46,9 @@ On the first day of the workshop, we learnt about the flow of RTL design to GDSI
 
     
 ## Part 2: Labs using iverilog and gtkwave
+### Sub-Part 1: Introduction to the lab
+In this lab, envrionment set up has been done.A new directory 'VLSI' has been created. 'vsdflow' and 'sky130RTLDesignAndSynthesisWorkshop' have been cloned to the directory from github using the ' git clone' command.
+
 
 ## Part 3: Introduction to Yosys and Logic Synthesis
 
