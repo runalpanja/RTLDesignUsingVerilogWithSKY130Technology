@@ -104,6 +104,45 @@ The below piece of code is said to be the STIMULUS GENERATOR.
 In this TestBench, we are not having any STIMULUS OBSERVER. We are directly dumping out the VCD file while observing the output in the gtkwave.
 
 
+## Part 3: Introduction to Yosys and Logic Synthesis
+
+### Sub-Part 1: Introduction to Yosys
+
+-  What is a Synthesizer?
+   -  It is the tool used for converting the RTL to netlist.
+   -  Yosys is the synthesizer used in this workshop.
+  
+-  Yosys setup
+   -![image](https://user-images.githubusercontent.com/100710081/165752064-3984e59e-096a-4a1b-86a5-62678ad788d4.png)
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+### Sub-Part 2: Introduction to Logic Synthesis Part 1 
+
+
+
+
+
+
+
+
+### Sub-Part 3: Introduction to Logic Synthesis Part 2 
+
+
+
+
 
 
 
