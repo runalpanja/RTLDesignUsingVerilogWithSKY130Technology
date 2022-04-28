@@ -85,8 +85,27 @@ So, this is how we will load the design and check its functionality.
 ![image](https://user-images.githubusercontent.com/100710081/165743595-bf5fd003-cb78-4867-bd41-d72f43d23c2b.png)
 ![image](https://user-images.githubusercontent.com/100710081/165744353-eb4bd0ba-adc1-4962-b820-23a049d26786.png)
 
-In the above testbench, we can see instantiation of good_mux.v e.g Instantiate the Unit Under Test (UUT).
+In the above testbench, we can see instantiation of good_mux.v e.g Instantiate the Unit Under Test (UUT).It is also called Design Under Test (DUT).
+
 It may kindly be noted that the testbench neither have primary inputs nor primary outputs.
+
+Now we will start dumping the VCD file.
+
+Running the simulator for 300ns and finish with the command $finish.
+In order to run it for ,say 500ns , we will write ' #500 $finish; ' Just like that!
+
+In every 75 ns, sel = - sel which means 'sel' line toggles in every 75ns.
+
+
+The below piece of code is said to be the STIMULUS GENERATOR.
+
+![image](https://user-images.githubusercontent.com/100710081/165748608-8320065b-a9fd-4400-947c-7126576f09d3.png)
+
+In this TestBench, we are not having any STIMULUS OBSERVER. We are directly dumping out the VCD file while observing the output in the gtkwave.
+
+
+
+
 
 
 
