@@ -312,6 +312,21 @@ Comparing the outcome with *good_mux.v* file....
 <img src="https://user-images.githubusercontent.com/100710081/165814516-70ead114-0d51-49a1-a067-854fe6eab555.png" />
 </p>
 
+Now,  by using 'show' command we get the graphical version of the logic it has realized....
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/165816345-71c6b5e9-9930-4b94-9a52-046c2bc2495e.png" />
+</p>
+
+Graphical view....
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/165816841-926430c8-fe53-4a28-be22-d548014eabcd.png" />
+</p>
+
+
+
+
+
 
 
 
