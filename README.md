@@ -245,68 +245,51 @@ When we installed 'vsdflow' , Yosys automatically got installed. We are in the Y
 <p align="center">
 <img src="https://user-images.githubusercontent.com/100710081/165797118-9681daf4-7e50-42c2-a5ab-81007b627fda.png" />
 </p>
-
 <p align="center">
 <img src="https://user-images.githubusercontent.com/100710081/165798646-c62a7e19-a682-4a31-a15e-6c840a80783f.png" />
 </p>
-
 <p align="center">
 <img src="https://user-images.githubusercontent.com/100710081/165799518-0b81027c-1b57-4d6e-8b71-705ca37aaa27.png" />
 </p>
-
 <p align="center">
 <img src="https://user-images.githubusercontent.com/100710081/165800418-0a5f8c3c-6096-4b36-b222-25b0992a8456.png" />
 </p>
-
 <p align="center">
 <img src="https://user-images.githubusercontent.com/100710081/165801455-8845e4e6-d161-488f-b9db-7ce5197f9f8a.png" />
 </p>
-
 <p align="center">
 <img src="https://user-images.githubusercontent.com/100710081/165801722-6e5319ce-b31a-450c-9506-141a1e33365a.png" />
 </p>
-
 <p align="center">
 <img src="https://user-images.githubusercontent.com/100710081/165801999-7782c05c-193c-44b2-b4ca-4b74842572d3.png" />
 </p>
-
 <p align="center">
 <img src="https://user-images.githubusercontent.com/100710081/165802131-3b63a8bf-7442-4ab7-a42d-83b30347628f.png" />
 </p>
-
 <p align="center">
 <img src="https://user-images.githubusercontent.com/100710081/165802462-26a08b73-3ee3-47ee-89e6-4d47d036e2fd.png" />
 </p>
-
 <p align="center">
 <img src="https://user-images.githubusercontent.com/100710081/165802845-efd41b76-f4c3-419e-8569-76f87777894d.png" />
 </p>
-
 <p align="center">
 <img src="https://user-images.githubusercontent.com/100710081/165803125-ed9b6bc6-10ad-433a-bde1-260ede63eb42.png" />
 </p>
-
 <p align="center">
 <img src="https://user-images.githubusercontent.com/100710081/165803402-cdaa1ab1-6172-4abe-a6b0-dde129499e98.png" />
 </p>
-
 <p align="center">
 <img src="https://user-images.githubusercontent.com/100710081/165803598-af98df44-ad24-4968-be61-8bd57bbc2ac8.png" />
 </p>
-
 <p align="center">
 <img src="https://user-images.githubusercontent.com/100710081/165803807-a0b8fdab-d51a-4653-afaf-b60c852a95c4.png" />
 </p>
-
-
 <p align="center">
 <img src="https://user-images.githubusercontent.com/100710081/165804015-b208a502-2f76-4310-b1d2-e8f96e180d48.png" />
 </p>
-
 <p align="center">
 <img src="https://user-images.githubusercontent.com/100710081/165804307-b24ffd0b-b52e-4958-b094-8d0eeb85f6cb.png" />
 </p>
-
 <p align="center">
 <img src="https://user-images.githubusercontent.com/100710081/165804489-f4d5a2e6-d9e3-442f-8eb4-4042bb7630e1.png" />
 </p>
