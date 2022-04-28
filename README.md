@@ -73,6 +73,20 @@ Generarting waveform by creating .vcd files.
 ![image](https://user-images.githubusercontent.com/100710081/165738527-5063cb6e-831b-4816-ad00-382949878f83.png)
 ![image](https://user-images.githubusercontent.com/100710081/165738834-aa3bb9bb-d583-4e98-a4f6-3ccd0506187e.png)
 ![image](https://user-images.githubusercontent.com/100710081/165739005-0ad07504-541e-428a-9994-b8586e0ee225.png)
+![image](https://user-images.githubusercontent.com/100710081/165740590-4347f545-139c-41ca-949a-25bc97cddedb.png)
+Using gtkwave , we can show for the " good_mux.v " design how the output toggles between i0 and i1 respectively as select line 'sel' toggles between 0 & 1.
+So, this is how we will load the design and check its functionality.
+
+### Sub-Part 3: Introduction iverilog gtkwave part 2
+
+![image](https://user-images.githubusercontent.com/100710081/165743595-bf5fd003-cb78-4867-bd41-d72f43d23c2b.png)
+![image](https://user-images.githubusercontent.com/100710081/165744353-eb4bd0ba-adc1-4962-b820-23a049d26786.png)
+
+In above testbench, we can see instantiation of tb_good_mux.v.
+It may kindly be noted that the testbench neither have primary inputs nor primary outputs.
+
+
+
 
 
 
