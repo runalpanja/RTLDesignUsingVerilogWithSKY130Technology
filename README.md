@@ -347,6 +347,21 @@ How to write the netlist?
 
 
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/165828038-afa8ac29-843c-4197-8ee5-cf75fd487493.png" />
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
