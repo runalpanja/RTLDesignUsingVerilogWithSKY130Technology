@@ -49,6 +49,9 @@ On the first day of the workshop, we learnt about the flow of RTL design to GDSI
 ### Sub-Part 1: Introduction to the lab
 In this lab, envrionment set up has been done.A new directory 'VLSI' has been created. 'vsdflow' and 'sky130RTLDesignAndSynthesisWorkshop' have been cloned to the directory from github using the ' git clone' command.
 ![Screenshot 2022-04-28 at 11 14 19 AM](https://user-images.githubusercontent.com/100710081/165684973-8a243571-bbd9-43f3-8396-1460cbaaa9f7.png)
+my_lib contains all our library files
+
+![Screenshot 2022-04-28 at 11 23 43 AM](https://user-images.githubusercontent.com/100710081/165686193-ab6babbb-4919-437b-8489-a6cf0ece81ea.png)
 
 
 
