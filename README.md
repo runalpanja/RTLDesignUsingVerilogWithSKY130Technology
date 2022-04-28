@@ -176,25 +176,26 @@ In this TestBench, we are not having any STIMULUS OBSERVER. We are directly dump
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Part 4: Lab using Yosys and SKY130 PDKs
+### Sub-Part 1: Yosys 1 good mux Part1
+In this lab, we will have an introduction to synthesizer Yosys. We will learn how to invoke Yosys and how to synthesize our design.
+
+Invoke Yosys.
+![image](https://user-images.githubusercontent.com/100710081/165773780-5fa5038e-932a-4fca-b3c7-3adcffc49c06.png)
+
+
+
+
+
+
+
+### Sub-Part 2: Yosys 1 good mux Part2
+
+
+
+### Sub-Part 3: Yosys 1 good mux Part3
+
+
 
 
 
