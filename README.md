@@ -33,11 +33,16 @@ On the first day of the workshop, we learnt about the flow of RTL design to GDSI
     -   Design is the actual Verilog code or set of codes which has the intended functionalityn to meet with the required specifications
 - What is a Testbench? 
     -   TestBench is the set up to apply stimulus(test_vectors) to the design to check its functionality
+    -   ![Screenshot 2022-04-28 at 10 27 40 AM](https://user-images.githubusercontent.com/100710081/165680015-a6474780-d33d-42f9-be1e-eae923873e52.png)
 
 - How simulator works?
     - Simulator looks for changes in the input signals
     - Upon change to the input, the output is evaluated.If no change in the input, there will be no change in the output    
     - Simulator is looking for change in the values of the input
+    - ![Screenshot 2022-04-28 at 10 28 06 AM](https://user-images.githubusercontent.com/100710081/165680028-5f937eb0-57be-4b35-91c4-039f2ab441fc.png)
+
+
+
     
 ## Part 2: Labs using iverilog and gtkwave
 
