@@ -323,6 +323,28 @@ Graphical view....
 <img src="https://user-images.githubusercontent.com/100710081/165816841-926430c8-fe53-4a28-be22-d548014eabcd.png" />
 </p>
 
+How to write the netlist?
+-  By using *write_verilog* command, we get....
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/165827136-477cb004-691f-48e7-aaae-379223f54b97.png" />
+</p>
+
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/165826198-929ef1b7-4577-4984-8727-0f12ed8bd20f.png" />
+</p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/165826394-2ef39822-dcf6-4b74-ba3b-44415258b91a.png" />
+</p>
+
+
+
+
+
+
+
+
 
 
 
