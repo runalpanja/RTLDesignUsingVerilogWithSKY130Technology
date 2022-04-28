@@ -25,7 +25,20 @@
 # Day 1: Introduction to Verilog RTL Design and Synthesis
 On the first day of the workshop, we learnt about the flow of RTL design to GDSII. We learnt how to use the simulator iVerilog and also learnt about the synthesizer tool Yosys. Synthesizer tool converts an RTL design to netlist.
 ## Part 1: Introduction to Open-Source simulator iverilog
+### Sub-Part 1: Introduction to iVerilog Simulator
+-  What is a Simulator?
+    -   Simulator is a tool used for simulating the design
+    -   RTL design is checked for adherence to the spec by simulating the design
+- What is a Design?
+    -   Design is the actual Verilog code or set of codes which has the intended functionalityn to meet with the required specifications
+- What is a Testbench? 
+    -   TestBench is the set up to apply stimulus(test_vectors) to the design to check its functionality
 
+- How simulator works?
+    - Simulator looks for changes in the input signals
+    - Upon change to the input, the output is evaluated.If no change in the input, there will be no change in the output    
+    - Simulator is looking for change in the values of the input
+    
 ## Part 2: Labs using iverilog and gtkwave
 
 ## Part 3: Introduction to Yosys and Logic Synthesis
