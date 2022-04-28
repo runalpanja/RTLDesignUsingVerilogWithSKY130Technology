@@ -298,6 +298,31 @@ To synthesize a particular module, we use the 'synth - top' command as follows..
 </p>
 
 
+-   In order to generate the netlist, we will use 'abc -liberty' command.... this will convert our RTL into gate and which gate it will be linked to that will be specified in our library.... 
+-   The logic of *good_mux.v* will be realized in terms of the standard cells available in *" ../my_lib/lib/sky130_fd_sc_hd__tt_025C_1v80.lib "*
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/165811932-adf3a84b-9f34-4731-956d-e63a633c2ba2.png" />
+</p>
+
+
+Comparing the outcome with *good_mux.v* file....
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/165814516-70ead114-0d51-49a1-a067-854fe6eab555.png" />
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
