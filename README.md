@@ -114,32 +114,59 @@ In this TestBench, we are not having any STIMULUS OBSERVER. We are directly dump
   
 -  Yosys setup
    -![image](https://user-images.githubusercontent.com/100710081/165752064-3984e59e-096a-4a1b-86a5-62678ad788d4.png)
+- NOTE : 
+   - The set of primary inputs/primary outputs will remain same between the RTL design and the synthesized output -> same testbench can be used.
 
   
-  
-
-
-
-
-
-
-
-
-
-
-
 
 ### Sub-Part 2: Introduction to Logic Synthesis Part 1 
 
+-  What is RTL?
+
+     ![image](https://user-images.githubusercontent.com/100710081/165756584-2ec44a03-ad4e-442c-98c2-813d2b43690c.png)
+
+-  How to map RTL code with Digital Logic Design?
+
+     ![image](https://user-images.githubusercontent.com/100710081/165756069-52d91575-fd28-4446-b473-a853d19f46d2.png)
+     
+-  What is Synthesis?
+
+     ![image](https://user-images.githubusercontent.com/100710081/165757365-36a7e5e2-8bb4-48e3-98b7-6b6ee952c534.png)
 
 
+-  What is .lib ?
+     
+     ![image](https://user-images.githubusercontent.com/100710081/165757991-56648c41-2c0f-4c11-9fbe-4176dccac2c0.png)
+     
+-  Why different flavours of gate?
 
-
-
+     ![image](https://user-images.githubusercontent.com/100710081/165759243-a0cd46c7-0618-40d5-9cbc-56685bc7e844.png)
+     
+    -  Tcq_a = propagation delay of flop A
+    -  In order to make fclk -> 'max' , Tclk -> 'min'
+    -  Tclk -> 'min' when Tcombi -> 'min'
+    
+     
 
 
 ### Sub-Part 3: Introduction to Logic Synthesis Part 2 
 
+-  Why do we need slow cells?
+
+     ![image](https://user-images.githubusercontent.com/100710081/165760465-94dbf4ff-13c6-442f-bfa9-74374483900f.png)
+     
+-  Faster cells vs. Slower cells
+
+     ![image](https://user-images.githubusercontent.com/100710081/165766112-e059648f-2b02-49a6-ab55-50df0284eadc.png)
+
+-  Selection of cells
+
+     ![image](https://user-images.githubusercontent.com/100710081/165766973-02a7e899-a8aa-43e8-bbd4-f768955bac31.png)
+     
+-  Synthesis (Illustration)
+     
+     
+     ![image](https://user-images.githubusercontent.com/100710081/165767679-b281404f-ccb3-4a73-b4a2-24a160a549e2.png)
 
 
 
@@ -156,7 +183,12 @@ In this TestBench, we are not having any STIMULUS OBSERVER. We are directly dump
 
 
 
-## Part 3: Introduction to Yosys and Logic Synthesis
+
+
+
+
+
+
 
 ## Part 4: Lab using Yosys and SKY130 PDKs
 
