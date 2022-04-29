@@ -80,9 +80,6 @@ my_lib contains all our library files. It contains two folder 'lib' and 'verilog
 <img src="https://user-images.githubusercontent.com/100710081/165686193-ab6babbb-4919-437b-8489-a6cf0ece81ea.png" />
 </p>  
 
-### List of Verilog Models
-
-
 
 ### List of Verilog Files 
 It contains both design and corresponding testbench files.
