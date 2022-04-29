@@ -28,6 +28,27 @@
 
 
 
+-  [Day 2: Timing libs,hierarchical vs flat synthesis and efficient flat coding styles]()
+    - [Part 1: Introduction to Timing .libs]()
+         - [Sub-Part 1: Introduction to dot Lib part1]()
+         - [Sub-Part 2: Introduction to dot Lib part2]()
+         - [Sub-Part 3: Introduction to dot Lib part3]()
+
+
+    - [Part 2: Hierarchical vs. Flat synthesis]()
+         - [Sub-Part 1: Hier synthesis flat synthesis part1]()
+         - [Sub-Part 2: Hier synthesis flat synthesis part2]()
+         
+    
+    - [Part 3: Various flop coding styles and optimization]()
+         - [Sub-Part 1: Why Flops and Flop coding styles part1]()
+         - [Sub-Part 2: Why Flops and Flop coding styles part2]()
+         - [Sub-Part 3: Lab flop synthesis simulations part1]()
+         - [Sub-Part 4: Lab flop synthesis simulations part2]()
+         - [Sub-Part 5: Interesting optimisations part1]()
+         - [Sub-Part 6: Interesting optimisations part2]()
+     
+
 
 
 
@@ -348,6 +369,9 @@ How to write the netlist?
 
 
 
+# Day 2: Timing libs,hierarchical vs flat synthesis and efficient flat coding styles
+## Part 1: Introduction to Timing .libs 
+### Sub-Part 1: Introduction to dot Lib part1
 
 
 
@@ -364,15 +388,32 @@ How to write the netlist?
 
 
 
+### Sub-Part 2: Introduction to dot Lib part2
 
+### Sub-Part 3: Introduction to dot Lib part3
 
 
+## Part 2: Hierarchical vs. Flat synthesis
+### Sub-Part 1: Hier synthesis flat synthesis part1
+### Sub-Part 2: Hier synthesis flat synthesis part2
+         
+    
+## Part 3: Various flop coding styles and optimization
+### Sub-Part 1: Why Flops and Flop coding styles part1
 
 
+### Sub-Part 2: Why Flops and Flop coding styles part2
+### Sub-Part 3: Lab flop synthesis simulations part1
+### Sub-Part 4: Lab flop synthesis simulations part2
+### Sub-Part 5: Interesting optimisations part1
+### Sub-Part 6: Interesting optimisations part2
 
 
 
 
+# Day 2: Introduction to Verilog RTL Design and Synthesis
+## Part 1: Introduction to Timing .libs
+### Sub-Part 1: Introduction to iVerilog Simulator
 
 
 
@@ -380,9 +421,13 @@ How to write the netlist?
 
 
 
+## Part 2: Introduction to Open-Source simulator iverilog
+### Sub-Part 1: Introduction to iVerilog Simulator
 
 
 
+## Part 3: Introduction to Open-Source simulator iverilog
+### Sub-Part 1: Introduction to iVerilog Simulator
 
 
 
@@ -416,7 +461,43 @@ How to write the netlist?
 
 
 
-### Sub-Part 3: Yosys 1 good mux Part3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
