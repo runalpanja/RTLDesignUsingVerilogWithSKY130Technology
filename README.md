@@ -327,6 +327,8 @@ Graphical view....
 <img src="https://user-images.githubusercontent.com/100710081/165816841-926430c8-fe53-4a28-be22-d548014eabcd.png" />
 </p>
 
+### Sub-Part 2: Yosys 1 good mux Part2
+
 How to write the netlist?
 -  By using *write_verilog* command, we get....
 
@@ -341,14 +343,6 @@ How to write the netlist?
 <p align="center">
 <img src="https://user-images.githubusercontent.com/100710081/165826394-2ef39822-dcf6-4b74-ba3b-44415258b91a.png" />
 </p>
-
-
-
-
-
-
-
-
 
 
 <p align="center">
@@ -421,7 +415,7 @@ How to write the netlist?
 
 
 
-### Sub-Part 2: Yosys 1 good mux Part2
+
 
 
 
