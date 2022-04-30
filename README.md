@@ -394,7 +394,7 @@ tt-> typical library
 
 1V80 -> voltage
 
-When you look into the library, 3 letters come into picture. P V T
+When you look into the library, 3 letters come into picture : *P V T*
 
 P -> PROCESS (variation due to fabrication) 
 
@@ -583,9 +583,16 @@ As we can above, the hierarchies are flattened out....
 
 
 
-# Day 2: Introduction to Verilog RTL Design and Synthesis
-## Part 1: Introduction to Timing .libs
-### Sub-Part 1: Introduction to iVerilog Simulator
+# Day 3: Combinational and Sequential optimizations
+## Part 1: Introduction to optimizations
+### Sub-Part 1: Introduction to optimizations Part 1
+
+
+
+
+
+### Sub-Part 2: Introduction to optimizations Part 2
+### Sub-Part 3: Introduction to optimizations Part 3
 
 
 
