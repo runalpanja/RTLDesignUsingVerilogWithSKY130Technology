@@ -586,11 +586,44 @@ As we can above, the hierarchies are flattened out....
 <p align="center">
 <img src="https://user-images.githubusercontent.com/100710081/166117058-95cc166a-4f29-4433-95d0-1a405f4cd173.png" />
 </p>
+
+### Sub-Part 2: Lab flop synthesis simulations part2
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/100710081/166117200-3c7bc7bd-4325-4ce3-851d-b77376843640.png" />
 </p>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/100710081/166117223-90c1df69-cd34-435c-b51f-a8fac4cb7bb6.png" />
+<img src="https://user-images.githubusercontent.com/100710081/166117392-1e07f722-a5d8-47cd-b405-edae195532d1.png" />
+</p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166117478-63970178-e510-4e57-bd39-bfdfbbcd1ca9.png" />
+</p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166117523-091720d3-59d2-4e1f-81f8-5f9b90f06c66.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166117551-2dbbd0aa-f582-4550-bf6a-33b76594a9c9.png" />
+</p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166117696-8ff6cc98-ef8a-40fa-9c70-f1f2e28dc43b.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166117960-96fefb3f-49cd-41d6-92fe-12bb89f08852.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166118003-a8c1318b-21b3-4c69-a5be-e552edcf616f.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166118030-cf0ce6d8-f6c9-42f9-9655-1533c926acd9.png" />
+</p>
+
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166118093-fee8e144-9e5f-4907-b64a-1172137ee71f.png" />
 </p>
 
 
@@ -609,7 +642,14 @@ As we can above, the hierarchies are flattened out....
 
 
 
-### Sub-Part 2: Lab flop synthesis simulations part2
+
+
+
+
+
+
+
+
 
 
 ### Sub-Part 3: Interesting optimisations part1
