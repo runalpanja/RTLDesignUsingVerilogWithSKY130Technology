@@ -380,6 +380,29 @@ What is .lib?
 <img src="https://user-images.githubusercontent.com/100710081/166093272-3ac71677-96f6-4b9f-be09-684e08fcc585.png" />
 </p>
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166093406-26c6f288-ba89-4a0f-99d6-4be69d8c1800.png" />
+</p>
+
+First lines tells it is 130nm technology library.
+
+tt-> typical library
+025C -> temperature
+1V08 -> voltage
+
+When you look into the library, 3 letters come into picture. P V T
+
+P -> PROCESS (variation due to the process) 
+
+V -> VOLTAGE
+
+T -> TEMPERATURE 
+
+
+
+
+
+
 
 
 
