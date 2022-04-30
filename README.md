@@ -422,7 +422,9 @@ There are lot of different types of cells....
 </p>
 
 
-Wider cells consume MORE power....
+### Sub-Part 3: Introduction to dot Lib part3
+
+Wider cells consume MORE power.... and provides LESS delay....
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/100710081/166094941-0496eb37-f366-4d67-b388-9a0e953a2366.png" />
@@ -430,33 +432,26 @@ Wider cells consume MORE power....
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Sub-Part 3: Introduction to dot Lib part3
-
-
 ## Part 2: Hierarchical vs. Flat synthesis
 ### Sub-Part 1: Hier synthesis flat synthesis part1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Sub-Part 2: Hier synthesis flat synthesis part2
          
     
