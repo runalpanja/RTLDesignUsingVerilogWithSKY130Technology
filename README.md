@@ -453,6 +453,27 @@ submodule 2 -> OR GATE  which is instantiated as u2
 <img src="https://user-images.githubusercontent.com/100710081/166096801-4af226da-39fb-4c9b-ac15-8576d8fb5e59.png" />
 </p>
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166097075-363f4ccd-54a2-45ac-b064-6e18b1521050.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166097107-f2874511-93b6-48f4-adbe-b73e2af30e6d.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166097151-4e66c3e8-d80d-4b11-a98b-9c15d22cc3fb.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166097185-fdfa8d0e-db90-4f85-8416-265732b33f9e.png" />
+</p>
+
+
+
+
+
+
 
 
 
