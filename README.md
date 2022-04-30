@@ -435,6 +435,19 @@ Wider cells consume MORE power.... and provides LESS delay....
 ## Part 2: Hierarchical vs. Flat synthesis
 ### Sub-Part 1: Hier synthesis flat synthesis part1
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166096457-a1474f76-a08f-492e-8dcf-e7443cbc6d20.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166096505-eb5e9b20-c9a8-42b1-bb2f-6fd99adf0c4b.png" />
+</p>
+
+As we can see above, it has 2 modules.
+
+submodule 1 -> AND GATE which is instantiated as u1
+
+submodule 2 -> OR GATE  which is instantiated as u2
 
 
 
