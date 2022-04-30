@@ -655,7 +655,28 @@ As we can above, the hierarchies are flattened out....
 </p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/100710081/166118742-fe114d2a-6e59-4a01-ad84-f229bb10b7e9.png" />
+<img src="https://user-images.githubusercontent.com/100710081/166118842-360b3eb7-770b-497e-bce8-8ba1e649b3b8.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166118906-b65daa88-2ef9-4886-9410-654d7ea3a030.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166118951-55aba26a-ed56-4454-a194-7de9446ec66c.png" />
+</p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166118976-68de4a8f-d2eb-445e-bf5d-7bac1e6157d3.png" />
+</p>
+
+### Sub-Part 4: Interesting optimisations part2
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166119087-1dd081cc-328e-48d7-a5c9-8c16fc208fba.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166119179-11bdd58b-e83c-4105-80db-6e7f8769257f.png" />
 </p>
 
 
@@ -684,7 +705,13 @@ As we can above, the hierarchies are flattened out....
 
 
 
-### Sub-Part 4: Interesting optimisations part2
+
+
+
+
+
+
+
 
 
 
