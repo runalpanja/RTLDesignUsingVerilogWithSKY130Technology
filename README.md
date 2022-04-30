@@ -564,24 +564,47 @@ As we can above, the hierarchies are flattened out....
     - when the design is MASSIVE, DIVIDE and CONQUER is used.... 
 
 
-
-
-
-
-
-
-
-         
-    
+  
 ## Part 3: Various flop coding styles and optimization
-### Sub-Part 1: Why Flops and Flop coding styles part1
+### Sub-Part 1: Lab flop synthesis simulations part1
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166116533-fc7dd665-24bd-45ab-ae5f-1d13f773a831.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166116644-6d866f2b-0958-49c8-b425-0117f0a2417e.png" />
+</p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166116868-690f96df-c889-4142-8795-415bb4fdf530.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166116922-17b2527a-56f8-4275-8012-fa0e266e4048.png" />
+</p>
 
 
-### Sub-Part 2: Why Flops and Flop coding styles part2
-### Sub-Part 3: Lab flop synthesis simulations part1
-### Sub-Part 4: Lab flop synthesis simulations part2
-### Sub-Part 5: Interesting optimisations part1
-### Sub-Part 6: Interesting optimisations part2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Sub-Part 2: Lab flop synthesis simulations part2
+
+
+### Sub-Part 3: Interesting optimisations part1
+### Sub-Part 4: Interesting optimisations part2
 
 
 
