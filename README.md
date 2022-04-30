@@ -449,7 +449,9 @@ submodule 1 -> AND GATE which is instantiated as u1
 
 submodule 2 -> OR GATE  which is instantiated as u2
 
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166096801-4af226da-39fb-4c9b-ac15-8576d8fb5e59.png" />
+</p>
 
 
 
