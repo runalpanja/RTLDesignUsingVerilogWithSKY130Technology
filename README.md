@@ -559,6 +559,9 @@ As we can above, the hierarchies are flattened out....
 <img src="https://user-images.githubusercontent.com/100710081/166100016-d2bee0e1-1b15-405a-b84b-7b0ba8f08462.png" />
 </p>
 
+- Why sub-module level synthesis?
+    - when we have multiple instances of same module....
+    - when the design is MASSIVE, DIVIDE and CONQUER is used.... 
 
 
 
