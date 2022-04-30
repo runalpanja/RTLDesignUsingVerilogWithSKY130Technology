@@ -422,6 +422,14 @@ There are lot of different types of cells....
 </p>
 
 
+Wider cells consume MORE power....
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166094941-0496eb37-f366-4d67-b388-9a0e953a2366.png" />
+</p>
+
+
+
 
 
 
