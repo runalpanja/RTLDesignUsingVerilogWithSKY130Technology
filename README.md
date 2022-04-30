@@ -491,6 +491,13 @@ Here, we can NOT see AND or OR gate but the instances u1 and u2 only.....
 <p align="center">
 <img src="https://user-images.githubusercontent.com/100710081/166097570-e9c8f775-e94a-4921-98d7-9f133f19f90c.png" />
 </p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166098227-8256b291-a0c8-4225-9106-efef233992f9.png" />
+</p>
+
+
+
+
 
 
 
@@ -502,7 +509,20 @@ Here, we can NOT see AND or OR gate but the instances u1 and u2 only.....
 <img src="https://user-images.githubusercontent.com/100710081/166098132-20389bad-281b-4880-94ce-5ac199434b33.png" />
 </p>
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166098332-edc819c2-95f3-4441-9bce-9b82e96b5ea9.png" />
+</p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166098832-60fbd6a2-224f-4c93-b627-6948cbf6ba25.png" />
+</p>
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166098935-4e71a3f2-2d72-41f8-93c7-b52deff7c488.png" />
+</p>
+
+
+
+As we can above, the hierarchies are flattened out....
 
 
 
