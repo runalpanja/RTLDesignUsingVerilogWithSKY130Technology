@@ -409,6 +409,9 @@ Our libraries will be characterized to process these variations.
 
 ### Sub-Part 2: Introduction to dot Lib part2
 
+It talks about technology, delay_model,time_unit, voltage_unit, leakage_power_unit,current_unit, pulling_resistance_unit,capacitive_load_unit etc ....
+
+
 
 
 
