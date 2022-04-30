@@ -626,33 +626,64 @@ As we can above, the hierarchies are flattened out....
 <img src="https://user-images.githubusercontent.com/100710081/166118093-fee8e144-9e5f-4907-b64a-1172137ee71f.png" />
 </p>
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166118229-c4272a5c-cfa9-4e42-847d-5256549b08d7.png" />
+</p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166118304-0e4542df-b51e-4bbd-9227-f5c97618f0d6.png" />
+</p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166118358-4e183371-3764-423c-8f6e-1ce96fa4d0df.png" />
+</p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166118398-f473240f-f081-4abc-bfd7-f73cc87390d8.png" />
+</p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166118419-70ac4287-d058-48e6-a30e-f9b2f6073955.png" />
+</p>
 
 
 ### Sub-Part 3: Interesting optimisations part1
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166118577-be583107-192b-435f-a9f6-7fdc5146a561.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166118612-f5f9e60b-79a2-46e5-bad5-19aa86396967.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166118742-fe114d2a-6e59-4a01-ad84-f229bb10b7e9.png" />
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Sub-Part 4: Interesting optimisations part2
 
 
