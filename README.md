@@ -527,29 +527,45 @@ As we can above, the hierarchies are flattened out....
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Sub-Part 2: Hier synthesis flat synthesis part2
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166099444-bf7309bf-3a65-4fd7-9c55-3bbaaf4bf2b6.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166099701-dee5deb8-5acc-46f3-855f-bb6bbeb96ca7.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166099801-b34fbb44-0d05-4e93-a5bc-8a1ab9ba966b.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166099827-6e627fa4-43c3-4b9b-a533-b4b4bc670608.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166099890-fe13e018-f5c5-44f5-8774-1af6f281e0bc.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166099973-625b7951-851d-40ee-9721-cf188d4b38ab.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166100016-d2bee0e1-1b15-405a-b84b-7b0ba8f08462.png" />
+</p>
+
+
+
+
+
+
+
+
+
+
          
     
 ## Part 3: Various flop coding styles and optimization
