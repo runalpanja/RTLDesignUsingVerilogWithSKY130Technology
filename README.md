@@ -469,6 +469,47 @@ submodule 2 -> OR GATE  which is instantiated as u2
 <img src="https://user-images.githubusercontent.com/100710081/166097185-fdfa8d0e-db90-4f85-8416-265732b33f9e.png" />
 </p>
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166097312-5fb38cac-2afb-4cdc-b990-1d7f4cf22bbf.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166097351-d1d66bbc-7f46-4ab2-8de3-111fc259ecaa.png" />
+</p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166097538-1005fcb1-e360-4573-9210-fa975db7b317.png" />
+</p>
+
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166097408-b41ac551-eb9b-4f82-9f30-d692f89d8a01.png" />
+</p>
+
+
+Here, we can NOT see AND or OR gate but the instances u1 and u2 only.....
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166097570-e9c8f775-e94a-4921-98d7-9f133f19f90c.png" />
+</p>
+
+
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166098096-c4d53a66-1a9f-4bf8-baa7-861825437ca1.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166098132-20389bad-281b-4880-94ce-5ac199434b33.png" />
+</p>
+
+
+
+
+
+
+
+
+
 
 
 
