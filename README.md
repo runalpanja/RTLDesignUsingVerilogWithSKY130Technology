@@ -411,6 +411,20 @@ Our libraries will be characterized to process these variations.
 
 It talks about technology, delay_model,time_unit, voltage_unit, leakage_power_unit,current_unit, pulling_resistance_unit,capacitive_load_unit etc ....
 
+It talks about the operating condition.
+
+The keyword 'cell' marks the beginning of cell definition....
+
+There are lot of different types of cells....
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166094406-3a2eb809-186f-454c-9c71-65f1efde01ed.png" />
+</p>
+
+
+
+
+
 
 
 
