@@ -373,6 +373,12 @@ How to write the netlist?
 ## Part 1: Introduction to Timing .libs 
 ### Sub-Part 1: Introduction to dot Lib part1
 
+What is .lib?
+  - collection of standard cells e.g slow or fast cells
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166093272-3ac71677-96f6-4b9f-be09-684e08fcc585.png" />
+</p>
 
 
 
