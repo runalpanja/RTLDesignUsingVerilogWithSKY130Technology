@@ -387,37 +387,45 @@ What is .lib?
 First lines tells it is 130nm technology library.
 
 tt-> typical library
+
 025C -> temperature
-1V08 -> voltage
+
+1V80 -> voltage
 
 When you look into the library, 3 letters come into picture. P V T
 
-P -> PROCESS (variation due to the process) 
+P -> PROCESS (variation due to fabrication) 
 
 V -> VOLTAGE
 
 T -> TEMPERATURE 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+Our libraries will be characterized to process these variations.
 
 
 
 
 
 ### Sub-Part 2: Introduction to dot Lib part2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Sub-Part 3: Introduction to dot Lib part3
 
