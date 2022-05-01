@@ -716,38 +716,52 @@ As we can above, the hierarchies are flattened out....
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Day 3: Combinational and Sequential optimizations
 ## Part 1: Introduction to optimizations
-### Sub-Part 1: Introduction to optimizations Part 1
+### Sub-Part 1: Combinational Logic optimizations 
+
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166157929-6650fc69-e326-43c2-ac25-18b5e743da31.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166158060-48b5a052-959a-45ae-84ab-a7269017e5f7.png" />
+</p>
+
+
+### Sub-Part 2: Sequential Logic Optimizations
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166158155-fdd8ef77-5e9a-4d09-8508-3fc63ed6a1b3.png" />
+</p>
 
 
 
 
 
-### Sub-Part 2: Introduction to optimizations Part 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Sub-Part 3: Introduction to optimizations Part 3
 
 
