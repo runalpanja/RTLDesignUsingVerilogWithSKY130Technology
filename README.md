@@ -1189,16 +1189,68 @@ As we can above, the hierarchies are flattened out....
 
 
 
-
-
-
-
-
-
-
-
-
 ### Sub-Part 2: Lab Incomplete IF part2
+
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166297886-27b90775-8913-4349-8b4e-3f742e5fa7e4.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166298082-5f7b6034-74a3-49d1-8ba0-259cf2c4df99.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166298553-97cbb85d-84fe-4f0b-be84-dde7046de0fa.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166298803-7a6b2f58-4ca1-49c8-9c09-94c634bf49a8.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166298968-e4b894a3-0610-4f76-ae3e-1ffbc7f86832.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166299081-65c479d5-4f3f-40f0-a2b4-43a92da5757f.png" />
+</p>
+
+
+## Part 2: Lab incomplete overlapping
+### Sub-Part 1: Lab incomplete overlapping Case part1
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166299833-3cbec761-220c-46b9-8211-012f62378274.png" />
+</p>
+
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166299961-cd184f89-10cf-4a50-bcc1-78b794559b43.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166300261-182be6a8-e01a-4fd0-877c-88b577655c3d.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166300539-65117db2-8b41-4245-8bf2-2bac18b518f7.png" />
+</p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166300837-8fba0e09-83ef-417c-b9b0-1bbadd2609ad.png" />
+</p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166301024-c7c9403b-8465-46be-8193-bd3f019eecf9.png" />
+</p>
+
+
+
+
+
+
+
+
+
 
 
 
