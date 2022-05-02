@@ -1151,7 +1151,54 @@ As we can above, the hierarchies are flattened out....
 </p>
 
 
+# Day 5: If,Case,For loop and For generate
+## Part 1: Lab on 'Incomplete IF Case'
+### Sub-Part 1: Lab Incomplete IF part1
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166295930-4951f0ad-73d1-48d1-a841-3f9262c4b0be.png" />
+</p>
 
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166296069-0119e5b9-cdb6-45c8-a63a-28c00a4e4706.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166296351-866bdba1-a62e-4bbd-acf0-8d06aef0709b.png" />
+</p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166296602-a658b808-d681-4ee0-8c2a-cbad29f5d3ca.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166296883-9a46d5b9-e245-4011-ae85-8711bbc116a7.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166297129-fe688bd4-014e-4e9b-b02d-67dfa3f9b623.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166297283-b0c6f1c4-a3e1-4aca-83d1-324ef2c9abdf.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166297405-a9bbc183-39a0-47a0-8cad-fa7f2a1d59ae.png" />
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Sub-Part 2: Lab Incomplete IF part2
 
 
 
