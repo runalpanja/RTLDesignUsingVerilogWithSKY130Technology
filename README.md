@@ -942,13 +942,42 @@ As we can above, the hierarchies are flattened out....
 
 
 
+# Day 4: GLS, BLOCKING VS NON-BLOCKING and Synthesis Simulation Mismatch
+## Part 1: GLS Synthesis Simulation mismatch and Blocking -Nonblocking statements
+### Sub-Part 1: GLS Concepts And Flow Using Iverilog
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166251593-c1f6723f-5e26-4b44-a11b-2129fd737ac1.png" />
+</p>
 
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166251786-a0d68fc4-de89-41a6-8c03-5019ea7a29ba.png" />
+</p>
 
+### Sub-Part 2: Synthesis Simulation Mismatch
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166252320-d2829193-5aef-42b8-af12-df9df7d3b07a.png" />
+</p>
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166252503-5a365f5e-522c-4529-a9f4-547397983276.png" />
+</p>
 
+### Sub-Part 3: Blocking And Non-Blocking Statements In Verilog
+ 
+ -    Inside always block 
+ 
+     -   = -> Blocking 
+        -    Executes the statement in the order it is written
+        -    So the first statement is evaluated before the second statement
 
+     -  <=   Non-blocking 
+        - executes all the RHS when always BLOCK is entered and assigns to LHS
+        - parallel evaluation
+        
+     
+         
 
 
 
@@ -1015,7 +1044,6 @@ As we can above, the hierarchies are flattened out....
 
 
 
-## Part 3: Introduction to Open-Source simulator iverilog
 
 
 
