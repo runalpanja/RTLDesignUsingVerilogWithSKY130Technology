@@ -890,6 +890,56 @@ As we can above, the hierarchies are flattened out....
 </p>
 
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166244958-95566975-c603-47f4-814e-8b894bff4e07.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166245156-cab76e1e-23d7-4d2b-a6d2-1d1de7c09ce4.png" />
+</p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166245287-2250f852-c1c7-4d15-8042-d12a3bd0ab3c.png" />
+</p>
+
+
+
+### Sub-Part 1: Sequential Logic Optimisations part2
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166246835-06606c7f-979d-43bc-affc-43869913b4c2.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166247255-2e64d09f-ca9a-475f-9f19-d8e4ed72866e.png" />
+</p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166247397-49dbb1c0-ff4e-440a-8407-4ae27d3a1742.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166248104-515d79f9-ddd1-4c82-ac07-c0d10efdb132.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166248473-8c1e0905-acf9-4b21-aba2-bdfee0d9b9f7.png" />
+</p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166248895-9a6a93bd-3fc1-4c56-bc77-20d32160d968.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166249450-897866b8-79ff-448e-b515-77c85583ed0e.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166249668-a0700033-d5d5-4c93-820e-adb5cd87319e.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166249814-15b4ff6d-163a-485a-8cbb-61e2db5fca4d.png" />
+</p>
+
+
+
 
 
 
