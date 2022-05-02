@@ -730,10 +730,29 @@ As we can above, the hierarchies are flattened out....
 </p>
 
 
-### Sub-Part 2: Sequential Logic Optimizations
+### Sub-Part 2: Introduction to optimizations Part 2
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/100710081/166158155-fdd8ef77-5e9a-4d09-8508-3fc63ed6a1b3.png" />
+</p>
+
+
+
+
+
+
+
+
+## Part 2: Combinational Logic Optimisations
+### Sub-Part 1: Combinational Logic Optimisations part1
+
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166182992-8560ad25-ad58-48c5-bacd-d016bc574641.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166198845-82da96d4-57fe-4254-a5db-6ea45789a82f.png" />
 </p>
 
 
@@ -762,16 +781,8 @@ As we can above, the hierarchies are flattened out....
 
 
 
-### Sub-Part 3: Introduction to optimizations Part 3
 
 
-
-
-
-
-
-## Part 2: Introduction to Open-Source simulator iverilog
-### Sub-Part 1: Introduction to iVerilog Simulator
 
 
 
