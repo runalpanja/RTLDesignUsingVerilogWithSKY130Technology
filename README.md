@@ -1054,7 +1054,13 @@ As we can above, the hierarchies are flattened out....
 
 ### Sub-Part 1: Lab GLS Synth Sim Mismatch part2
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166267448-20615494-ec29-4c2e-884d-33458d846ef1.png" />
+</p>
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166267690-784d05fb-9440-42ab-b371-7519defbb855.png" />
+</p>
 
 
 
