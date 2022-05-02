@@ -1052,7 +1052,7 @@ As we can above, the hierarchies are flattened out....
 <img src="https://user-images.githubusercontent.com/100710081/166266557-43c8d9ac-9ce8-44d6-9786-394b0c6231c1.png" />
 </p>
 
-### Sub-Part 1: Lab GLS Synth Sim Mismatch part2
+### Sub-Part 2: Lab GLS Synth Sim Mismatch part2
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/100710081/166267448-20615494-ec29-4c2e-884d-33458d846ef1.png" />
@@ -1061,6 +1061,33 @@ As we can above, the hierarchies are flattened out....
 <p align="center">
 <img src="https://user-images.githubusercontent.com/100710081/166267690-784d05fb-9440-42ab-b371-7519defbb855.png" />
 </p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166269901-4ad74997-ee33-4574-af2f-55fde7d23a1e.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166270213-46f5ffae-a491-4bd7-9f99-a0675e73eb38.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166270451-58f60397-6d9e-4376-b7df-1686867ab94a.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166271917-7e0c1cce-0b79-448a-a514-99f8756d3300.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166287912-f43cbbd7-50dc-4774-94d1-f16c0de01b25.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166288927-a2c917ea-a149-4cb8-b536-c70ac66f513d.png" />
+</p>
+
+
+
 
 
 
