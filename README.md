@@ -1243,6 +1243,64 @@ As we can above, the hierarchies are flattened out....
 <img src="https://user-images.githubusercontent.com/100710081/166301024-c7c9403b-8465-46be-8193-bd3f019eecf9.png" />
 </p>
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166302257-d579c01e-424f-4301-8d1b-310d3d15f170.png" />
+</p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166302356-1f42af1f-c197-4a2e-95c3-4c8d5ae3a944.png" />
+</p>
+
+
+### Sub-Part 2: Lab incomplete overlapping Case part2
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166303021-53f47c68-aeb2-46c4-8695-39dc218f70ce.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166303392-8795882a-c47d-4df2-ac6e-94f12538573c.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166303742-260b7183-61e4-48fc-a4bf-b90184eaa8dc.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166303904-78729dd2-1c25-46b3-83cf-48aeab25fb1a.png" />
+</p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166304036-8c89f176-2f3d-4527-9e49-ccbd5286c34c.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166304157-8ed746b9-e74d-47b9-a3e7-5c615fcd71ec.png" />
+</p>
+
+### Sub-Part 3: Lab incomplete overlapping Case part3
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166304537-ba93d1c4-643d-43e7-8e4c-13244efcbda3.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166304714-21fef08c-f629-4b49-9173-d95c49256fff.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166304820-b5a7ffc7-6f7b-453d-bcd9-edeb364d2120.png" />
+</p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166304904-bd7b5138-ad8f-45c4-8e60-bb47749099c2.png" />
+</p>
+
+
+
+
+
+
+
+
+
+
 
 
 
