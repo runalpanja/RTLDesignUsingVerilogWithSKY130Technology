@@ -786,9 +786,30 @@ As we can above, the hierarchies are flattened out....
 </p>
 
 
-
 <p align="center">
 <img src="https://user-images.githubusercontent.com/100710081/166210669-c394eee1-5ca1-4e19-8a82-28dcb0fea98c.png" />
+</p>
+
+
+
+### Sub-Part 2: Combinational Logic Optimisations part2
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166215883-785a6c21-901d-4468-ade8-c9e77c308e93.png" />
+</p>
+
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166216138-22d149bc-fa57-4eb6-b4d2-26ec3b539834.png" />
+</p>
+
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166216282-e6d1acb3-8b29-4a4d-8749-60ea183ccc4d.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166216394-92f549cf-526d-4f73-9495-25d85ff1d517.png" />
 </p>
 
 
@@ -832,8 +853,9 @@ As we can above, the hierarchies are flattened out....
 
 
 
+
+
 ## Part 3: Introduction to Open-Source simulator iverilog
-### Sub-Part 1: Introduction to iVerilog Simulator
 
 
 
