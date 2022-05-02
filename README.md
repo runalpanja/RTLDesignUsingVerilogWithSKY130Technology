@@ -976,6 +976,19 @@ As we can above, the hierarchies are flattened out....
         - executes all the RHS when always BLOCK is entered and assigns to LHS
         - parallel evaluation
         
+   
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166256119-6cb337c4-04bf-4554-a621-5fd83305b6df.png" />
+</p>   
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166256515-57dec325-74ad-45a3-a358-dab734d13248.png" />
+</p>   
+
+
+
+
+        
      
          
 
