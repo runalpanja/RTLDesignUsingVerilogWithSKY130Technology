@@ -983,7 +983,50 @@ As we can above, the hierarchies are flattened out....
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/100710081/166256515-57dec325-74ad-45a3-a358-dab734d13248.png" />
-</p>   
+</p> 
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166256938-1827d1b0-dc80-44f4-bbc6-5b971f374ff7.png" />
+</p> 
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166257278-3acbb01c-3279-4f6f-8250-8745c75dcf86.png" />
+</p> 
+
+
+
+
+## Part 2: Lab on GLS Synthesis and Simulation mismatch
+### Sub-Part 1: Lab GLS Synth Sim Mismatch part1
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166258642-50e62068-8c4c-4019-9482-c9ff6220789b.png" />
+</p> 
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166258803-8d748ca3-33af-46a7-9bff-682cd704813b.png" />
+</p> 
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166259413-bad03f3f-086b-464a-b3da-a35f1c23239b.png" />
+</p> 
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166259912-81f573a8-0a5d-46af-8c64-38e16082806e.png" />
+</p> 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
