@@ -1123,26 +1123,43 @@ As we can above, the hierarchies are flattened out....
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Sub-Part 2: Lab Synth sim mismatch blocking statement part2
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166292251-b94095a9-a623-4371-8669-a18eca58e2f2.png" />
+</p>
+
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166292411-bbb51a21-ee45-4fca-b1e5-e6296e2076ba.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166292659-6698e12a-d893-4abf-b532-62d28e5dd2c3.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166292802-3249c1fb-75f8-496c-a0a4-a563294b7019.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166294176-75804ede-f980-4f79-9860-4977ecd365e8.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166294548-0abd054f-cb81-4145-b1be-944cd23fed88.png" />
+</p>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
