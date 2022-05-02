@@ -812,6 +812,118 @@ As we can above, the hierarchies are flattened out....
 <img src="https://user-images.githubusercontent.com/100710081/166216394-92f549cf-526d-4f73-9495-25d85ff1d517.png" />
 </p>
 
+## Part 3: Sequential Logic Optimisations
+### Sub-Part 1: Sequential Logic Optimisations part1
+
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166227329-6013d726-9d1e-447e-86e1-7899e2f05cdc.png" />
+</p>
+
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166225007-7eb12e4c-e377-4ff7-aa76-5ec938768829.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166227606-5b257c33-3763-451e-9c3f-1bd2eb2c9387.png" />
+</p>
+
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166228690-c8fac4aa-8c5d-491c-b32a-4c4b2d5628ba.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166228775-714aff05-88b0-486c-ac69-b619004e2c6e.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166229030-429737dd-4112-4b73-8d41-6a1c3a426ce0.png" />
+</p>
+
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166230193-259841b7-bdf8-4f7f-b55e-3f791cc6fdf7.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166230780-9840f89f-d706-4cc6-82fb-6c6452f01d85.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166230997-dd06341e-9651-4ed2-9f69-17f1b8c93cc2.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166231367-f3d6ae93-4d09-4882-96c8-6c05fe4efc68.png" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166231455-558931a2-b143-4d81-a1f0-0ad2e0cbc436.png" />
+</p>
+
+
+
+
+
+## Part 4: Sequential Logic Optimisations for unused outputs
+### Sub-Part 1: Sequential Logic Optimisations part1
+
+
+
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166238256-688b5011-933b-4ad0-863c-afd608dd2add.png" />
+</p>
+
+
+
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166237309-3f65d272-2f96-47b9-a1e5-86ad5a70cef1.png" />
+</p>
+
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100710081/166238772-10355be6-11ff-4b3b-a890-b6e7b7ae268a.png" />
+</p>
+
+
+
+
+
+![image]()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
