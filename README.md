@@ -788,11 +788,8 @@ As we can above, the hierarchies are flattened out....
 
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/100710081/166210405-5ae44800-bc9f-4d9c-8501-baa41572c640.png" />
+<img src="https://user-images.githubusercontent.com/100710081/166210669-c394eee1-5ca1-4e19-8a82-28dcb0fea98c.png" />
 </p>
-
-
-
 
 
 
