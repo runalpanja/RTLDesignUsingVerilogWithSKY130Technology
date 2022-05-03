@@ -30,11 +30,11 @@
 
 
 
-  -  [Day 2: Timing libs,hierarchical vs flat synthesis and efficient flat coding styles]()
-      - [Part 1: Introduction to Timing .libs]()
-         - [Sub-Part 1: Introduction to dot Lib part1]()
-         - [Sub-Part 2: Introduction to dot Lib part2]()
-         - [Sub-Part 3: Introduction to dot Lib part3]()
+  -  [Day 2: Timing libs,hierarchical vs flat synthesis and efficient flat coding styles](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/#day-2-timing-libshierarchical-vs-flat-synthesis-and-efficient-flat-coding-styles)
+      - [Part 1: Introduction to Timing .libs](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology#part-1-introduction-to-timing-libs)
+         - [Sub-Part 1: Introduction to dot Lib part1](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology#sub-part-1-introduction-to-dot-lib-part1)
+         - [Sub-Part 2: Introduction to dot Lib part2](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology#sub-part-2-introduction-to-dot-lib-part2)
+         - [Sub-Part 3: Introduction to dot Lib part3](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology#sub-part-3-introduction-to-dot-lib-part3)
 
 
       - [Part 2: Hierarchical vs. Flat synthesis]()
@@ -49,6 +49,28 @@
          - [Sub-Part 4: Lab flop synthesis simulations part2]()
          - [Sub-Part 5: Interesting optimisations part1]()
          - [Sub-Part 6: Interesting optimisations part2]()
+
+
+      
+    -  [Day 3: Combinational and Sequential optimizations]()
+       - [Part 1: Introduction to optimizations]()
+         - [Sub-Part 1: Introduction to optimizations Part 1]()
+         - [Sub-Part 2: Introduction to optimizations Part 2]()
+        
+
+
+       - [Part 2: Combinational Logic Optimisations]()
+         - [Sub-Part 1: Combinational Logic Optimisations part1]()
+         - [Sub-Part 2: Combinational Logic Optimisations part2]()
+         
+       - [Part 3: Sequential Logic Optimisations]()
+         - [Sub-Part 1: Combinational Logic Optimisations part1]()
+
+
+
+
+       - [Part 4: Sequential Logic Optimisations for unused outputs]()
+         - 
      
 
 
