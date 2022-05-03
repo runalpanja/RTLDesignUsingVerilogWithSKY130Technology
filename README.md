@@ -37,34 +37,33 @@
          - [Sub-Part 3: Introduction to dot Lib part3](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-3-introduction-to-dot-lib-part3)
 
 
-      - [Part 2: Hierarchical vs. Flat synthesis]()
-         - [Sub-Part 1: Hier synthesis flat synthesis part1]()
-         - [Sub-Part 2: Hier synthesis flat synthesis part2]()
+      - [Part 2: Hierarchical vs. Flat synthesis](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#part-2-hierarchical-vs-flat-synthesis)
+         - [Sub-Part 1: Hier synthesis flat synthesis part1](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-1-hier-synthesis-flat-synthesis-part1)
+         - [Sub-Part 2: Hier synthesis flat synthesis part2](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-2-hier-synthesis-flat-synthesis-part2)
          
     
-      - [Part 3: Various flop coding styles and optimization]()
-         - [Sub-Part 1: Why Flops and Flop coding styles part1]()
-         - [Sub-Part 2: Why Flops and Flop coding styles part2]()
-         - [Sub-Part 3: Lab flop synthesis simulations part1]()
-         - [Sub-Part 4: Lab flop synthesis simulations part2]()
-         - [Sub-Part 5: Interesting optimisations part1]()
-         - [Sub-Part 6: Interesting optimisations part2]()
+      - [Part 3: Various flop coding styles and optimization](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#part-3-various-flop-coding-styles-and-optimization)
+        
+         - [Sub-Part 1: Lab flop synthesis simulations part1](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-1-lab-flop-synthesis-simulations-part1)
+         - [Sub-Part 2: Lab flop synthesis simulations part2](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-2-lab-flop-synthesis-simulations-part2)
+         - [Sub-Part 3: Interesting optimisations part1](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-1-interesting-optimisations-part1)
+         - [Sub-Part 4: Interesting optimisations part2](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-2-interesting-optimisations-part2)
 
 
       
-    -  [Day 3: Combinational and Sequential optimizations]()
-       - [Part 1: Introduction to optimizations]()
-         - [Sub-Part 1: Introduction to optimizations Part 1]()
-         - [Sub-Part 2: Introduction to optimizations Part 2]()
+    -  [Day 3: Combinational and Sequential optimizations](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#day-3-combinational-and-sequential-optimizations)
+       - [Part 1: Introduction to optimizations](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#part-1-introduction-to-optimizations)
+         - [Sub-Part 1: Introduction to optimizations Part 1](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-1-introduction-to-optimizations-part-1)
+         - [Sub-Part 2: Introduction to optimizations Part 2](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-1-introduction-to-optimizations-part-2)
         
 
 
-       - [Part 2: Combinational Logic Optimisations]()
-         - [Sub-Part 1: Combinational Logic Optimisations part1]()
-         - [Sub-Part 2: Combinational Logic Optimisations part2]()
+       - [Part 2: Combinational Logic Optimisations](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#part-2-combinational-logic-optimisations)
+         - [Sub-Part 1: Combinational Logic Optimisations part1](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-1-combinational-logic-optimisations-part1)
+         - [Sub-Part 2: Combinational Logic Optimisations part2](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-2-combinational-logic-optimisations-part2)
          
-       - [Part 3: Sequential Logic Optimisations]()
-         - [Sub-Part 1: Combinational Logic Optimisations part1]()
+       - [Part 3: Sequential Logic Optimisations](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#part-3-sequential-logic-optimisations)
+         - [Sub-Part 1: Combinational Logic Optimisations part1](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-1-sequential-logic-optimisations-part1)
 
 
 
