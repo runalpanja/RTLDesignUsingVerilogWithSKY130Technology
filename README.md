@@ -30,11 +30,11 @@
 
 
 
-  -  [Day 2: Timing libs,hierarchical vs flat synthesis and efficient flat coding styles](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/#day-2-timing-libshierarchical-vs-flat-synthesis-and-efficient-flat-coding-styles)
-      - [Part 1: Introduction to Timing .libs](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology#part-1-introduction-to-timing-libs)
-         - [Sub-Part 1: Introduction to dot Lib part1](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology#sub-part-1-introduction-to-dot-lib-part1)
-         - [Sub-Part 2: Introduction to dot Lib part2](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology#sub-part-2-introduction-to-dot-lib-part2)
-         - [Sub-Part 3: Introduction to dot Lib part3](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology#sub-part-3-introduction-to-dot-lib-part3)
+  -  [Day 2: Timing libs,hierarchical vs flat synthesis and efficient flat coding styles](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology//blob/main/README.md#day-2-timing-libshierarchical-vs-flat-synthesis-and-efficient-flat-coding-styles)
+      - [Part 1: Introduction to Timing .libs](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#part-1-introduction-to-timing-libs)
+         - [Sub-Part 1: Introduction to dot Lib part1](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-1-introduction-to-dot-lib-part1)
+         - [Sub-Part 2: Introduction to dot Lib part2](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-2-introduction-to-dot-lib-part2)
+         - [Sub-Part 3: Introduction to dot Lib part3](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-3-introduction-to-dot-lib-part3)
 
 
       - [Part 2: Hierarchical vs. Flat synthesis]()
