@@ -68,38 +68,38 @@
 
 
 
-       - [Part 4: Sequential Logic Optimisations for unused outputs](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology#part-4-sequential-logic-optimisations-for-unused-outputs)
-         - [Sub-Part 1: Sequential Logic Optimisations part1](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology#sub-part-1-sequential-logic-optimisations-part1-1)
-         - [Sub-Part 2: Sequential Logic Optimisations part2](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology#sub-part-2-sequential-logic-optimisations-part2)
+       - [Part 4: Sequential Logic Optimisations for unused outputs](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#part-4-sequential-logic-optimisations-for-unused-outputs)
+         - [Sub-Part 1: Sequential Logic Optimisations part1](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-1-sequential-logic-optimisations-part1-1)
+         - [Sub-Part 2: Sequential Logic Optimisations part2](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-2-sequential-logic-optimisations-part2)
 
 
-     -  [Day 4: GLS, BLOCKING VS NON-BLOCKING and Synthesis Simulation Mismatch](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology#day-4-gls-blocking-vs-non-blocking-and-synthesis-simulation-mismatch)
-        - [Part 1: GLS Synthesis Simulation mismatch and Blocking -Nonblocking statements](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology#part-1-gls-synthesis-simulation-mismatch-and-blocking--nonblocking-statements)
-          - [Sub-Part 1: GLS Concepts And Flow Using Iverilog](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology#sub-part-1-gls-concepts-and-flow-using-iverilog)
-          - [Sub-Part 2: Synthesis Simulation Mismatch](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology#sub-part-2-synthesis-simulation-mismatch)
-          - [Sub-Part 3: Blocking And Non-Blocking Statements In Verilog](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology#sub-part-3-blocking-and-non-blocking-statements-in-verilog)
-        - [Part 2: Lab on GLS Synthesis and Simulation mismatch](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology#part-2-lab-on-gls-synthesis-and-simulation-mismatch)
-          - [Sub-Part 1: Lab GLS Synth Sim Mismatch part1](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology#sub-part-1-lab-gls-synth-sim-mismatch-part1)
-          - [Sub-Part 2: Lab GLS Synth Sim Mismatch part2](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology#sub-part-2-lab-gls-synth-sim-mismatch-part2)
+     -  [Day 4: GLS, BLOCKING VS NON-BLOCKING and Synthesis Simulation Mismatch](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#day-4-gls-blocking-vs-non-blocking-and-synthesis-simulation-mismatch)
+        - [Part 1: GLS Synthesis Simulation mismatch and Blocking -Nonblocking statements](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#part-1-gls-synthesis-simulation-mismatch-and-blocking--nonblocking-statements)
+          - [Sub-Part 1: GLS Concepts And Flow Using Iverilog](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-1-gls-concepts-and-flow-using-iverilog)
+          - [Sub-Part 2: Synthesis Simulation Mismatch](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-2-synthesis-simulation-mismatch)
+          - [Sub-Part 3: Blocking And Non-Blocking Statements In Verilog](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-3-blocking-and-non-blocking-statements-in-verilog)
+        - [Part 2: Lab on GLS Synthesis and Simulation mismatch](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#part-2-lab-on-gls-synthesis-and-simulation-mismatch)
+          - [Sub-Part 1: Lab GLS Synth Sim Mismatch part1](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-1-lab-gls-synth-sim-mismatch-part1)
+          - [Sub-Part 2: Lab GLS Synth Sim Mismatch part2](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-2-lab-gls-synth-sim-mismatch-part2)
 
 
-        - [Part 3: Lab on Synth Sim mismatch and blocking statement](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology#part-3-lab-on-synth-sim-mismatch-and-blocking-statement)
-          - [Sub-Part 1: Lab Synth sim mismatch blocking statement part1](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology#sub-part-1-lab-synth-sim-mismatch-blocking-statement-part1)
-          - [Sub-Part 2: Lab Synth sim mismatch blocking statement part2](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology#sub-part-2-lab-synth-sim-mismatch-blocking-statement-part2)
+        - [Part 3: Lab on Synth Sim mismatch and blocking statement](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#part-3-lab-on-synth-sim-mismatch-and-blocking-statement)
+          - [Sub-Part 1: Lab Synth sim mismatch blocking statement part1](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-1-lab-synth-sim-mismatch-blocking-statement-part1)
+          - [Sub-Part 2: Lab Synth sim mismatch blocking statement part2](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-2-lab-synth-sim-mismatch-blocking-statement-part2)
 
 
 
 
 
-     -  [Day 5: If,Case,For loop and For generate]
-        - [Part 1: Lab on 'Incomplete IF Case'](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology#part-1-lab-on-incomplete-if-case)
-          - [Sub-Part 1: Lab Incomplete IF part1](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology#sub-part-1-lab-incomplete-if-part1)
-          - [Sub-Part 2: Lab Incomplete IF part2](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology#sub-part-2-lab-incomplete-if-part2)
-        - [Part 2: Lab incomplete overlapping](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology#part-2-lab-incomplete-overlapping)
+     -  [Day 5: If,Case,For loop and For generate](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#day-5-ifcasefor-loop-and-for-generate)
+        - [Part 1: Lab on 'Incomplete IF Case'](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#part-1-lab-on-incomplete-if-case)
+          - [Sub-Part 1: Lab Incomplete IF part1](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-1-lab-incomplete-if-part1)
+          - [Sub-Part 2: Lab Incomplete IF part2](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-2-lab-incomplete-if-part2)
+        - [Part 2: Lab incomplete overlapping](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#part-2-lab-incomplete-overlapping)
           
-          - [Sub-Part 1: Lab incomplete overlapping Case part1](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology#sub-part-1-lab-incomplete-overlapping-case-part1)
-          - [Sub-Part 2: Lab incomplete overlapping Case part2](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology#sub-part-2-lab-incomplete-overlapping-case-part2)  
-          - [Sub-Part 3: Lab incomplete overlapping Case part3](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology#sub-part-3-lab-incomplete-overlapping-case-part3)
+          - [Sub-Part 1: Lab incomplete overlapping Case part1](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-1-lab-incomplete-overlapping-case-part1)
+          - [Sub-Part 2: Lab incomplete overlapping Case part2](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-2-lab-incomplete-overlapping-case-part2)  
+          - [Sub-Part 3: Lab incomplete overlapping Case part3](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-3-lab-incomplete-overlapping-case-part3)
           -      
           
      
