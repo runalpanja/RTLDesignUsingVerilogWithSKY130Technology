@@ -54,7 +54,7 @@
     -  [Day 3: Combinational and Sequential optimizations](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#day-3-combinational-and-sequential-optimizations)
        - [Part 1: Introduction to optimizations](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#part-1-introduction-to-optimizations)
          - [Sub-Part 1: Introduction to optimizations Part 1](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-1-introduction-to-optimizations-part-1)
-         - [Sub-Part 2: Introduction to optimizations Part 2](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-1-introduction-to-optimizations-part-2)
+         - [Sub-Part 2: Introduction to optimizations Part 2](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-2-introduction-to-optimizations-part-2)
         
 
 
@@ -68,8 +68,9 @@
 
 
 
-       - [Part 4: Sequential Logic Optimisations for unused outputs]()
-         - 
+       - [Part 4: Sequential Logic Optimisations for unused outputs](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology#part-4-sequential-logic-optimisations-for-unused-outputs-1)
+         - [Sub-Part 1: Sequential Logic Optimisations part1](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology#sub-part-1-sequential-logic-optimisations-part1-1)
+         - [Sub-Part 2: Sequential Logic Optimisations part2](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology#sub-part-1-sequential-logic-optimisations-part2)
      
 
 
@@ -924,7 +925,7 @@ As we can above, the hierarchies are flattened out....
 
 
 
-### Sub-Part 1: Sequential Logic Optimisations part2
+### Sub-Part 2: Sequential Logic Optimisations part2
 <p align="center">
 <img src="https://user-images.githubusercontent.com/100710081/166246835-06606c7f-979d-43bc-affc-43869913b4c2.png" />
 </p>
