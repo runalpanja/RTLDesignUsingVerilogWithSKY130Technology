@@ -10,96 +10,96 @@
 *Workshop intends to teach the verilog coding guidelines that results in predictable logic in Silicon. It is important to note that every verilog code is not synthesizable and even if it is , it may result in different logic depending on the coding styles used. The course details all these aspects of the Verilog HDL with theory and backed with lot of practical examples. Workshop introduces to the digital logic design using Verilog HDL . Validating the functionality of the design using Functional Simulation. Writing Test Benches to validate the functionality of the RTL design . Logic synthesis of the Functional RTL Code. Gate Level Simulation of the Synthesized Netlist.*
 # *Index*
 - [RTL design using Verilog with SKY130 Technology](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#rtl-design-using-verilog-with-sky130-technology)
-  - [Day 1: Introduction to Verilog RTL Design and Synthesis](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#day-1-introduction-to-verilog-rtl-design-and-synthesis)
-    - [Part 1: Introduction to Open-Source simulator iverilog](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#part-1-introduction-to-open-source-simulator-iverilog)
-      - [Sub-Part 1: Introduction to iVerilog Simulator](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-1-introduction-to-iverilog-simulator)  
-    - [Part 2: Labs using iverilog and gtkwave](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#part-2-labs-using-iverilog-and-gtkwave)
-      - [Sub-Part 1: Introduction to the lab](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-1-introduction-to-the-lab) 
-      - [Sub-Part 2: Introduction iverilog gtkwave part 1](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-2-introduction-iverilog-gtkwave-part-1)
-      - [Sub-Part 3: Introduction iverilog gtkwave part 2](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-3-introduction-iverilog-gtkwave-part-2)
-    - [Part 3: Introduction to Yosys and Logic Synthesis](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#part-3-introduction-to-yosys-and-logic-synthesis)
+  - [1 Day 1: Introduction to Verilog RTL Design and Synthesis](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#day-1-introduction-to-verilog-rtl-design-and-synthesis)
+    - [1.1 Part 1: Introduction to Open-Source simulator iverilog](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#part-1-introduction-to-open-source-simulator-iverilog)
+      - [1.1.1 Sub-Part 1: Introduction to iVerilog Simulator](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-1-introduction-to-iverilog-simulator)  
+    - [1.2 Part 2: Labs using iverilog and gtkwave](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#part-2-labs-using-iverilog-and-gtkwave)
+      - [1.2.1 Sub-Part 1: Introduction to the lab](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-1-introduction-to-the-lab) 
+      - [1.2.2 Sub-Part 2: Introduction iverilog gtkwave part 1](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-2-introduction-iverilog-gtkwave-part-1)
+      - [1.2.3 Sub-Part 3: Introduction iverilog gtkwave part 2](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-3-introduction-iverilog-gtkwave-part-2)
+    - [1.3 Part 3: Introduction to Yosys and Logic Synthesis](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#part-3-introduction-to-yosys-and-logic-synthesis)
     
-      - [Sub-Part 1: Introduction to Yosys](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-1-introduction-to-yosys)
-      - [Sub-Part 2: Introduction to Logic Synthesis Part 1](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-2-introduction-to-logic-synthesis-part-1)
-      - [Sub-Part 3: Introduction to Logic Synthesis Part 2](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-3-introduction-to-logic-synthesis-part-2)
+      - [1.3.1 Sub-Part 1: Introduction to Yosys](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-1-introduction-to-yosys)
+      - [1.3.2 Sub-Part 2: Introduction to Logic Synthesis Part 1](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-2-introduction-to-logic-synthesis-part-1)
+      - [1.3.3 Sub-Part 3: Introduction to Logic Synthesis Part 2](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-3-introduction-to-logic-synthesis-part-2)
 
 
-    - [Part 4: Lab using Yosys and SKY130 PDKs](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#part-4-lab-using-yosys-and-sky130-pdks)
-       - [Sub-Part 1: Yosys 1 good mux Part1](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology#sub-part-1-yosys-1-good-mux-part1)
-       - [Sub-Part 2: Yosys 1 good mux Part2](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-2-yosys-1-good-mux-part2)
+    - [1.4 Part 4: Lab using Yosys and SKY130 PDKs](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#part-4-lab-using-yosys-and-sky130-pdks)
+       - [1.4.1 Sub-Part 1: Yosys 1 good mux Part1](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology#sub-part-1-yosys-1-good-mux-part1)
+       - [1.4.2 Sub-Part 2: Yosys 1 good mux Part2](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-2-yosys-1-good-mux-part2)
 
 
 
-  -  [Day 2: Timing libs,hierarchical vs flat synthesis and efficient flat coding styles](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology//blob/main/README.md#day-2-timing-libshierarchical-vs-flat-synthesis-and-efficient-flat-coding-styles)
-      - [Part 1: Introduction to Timing .libs](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#part-1-introduction-to-timing-libs)
-         - [Sub-Part 1: Introduction to dot Lib part1](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-1-introduction-to-dot-lib-part1)
-         - [Sub-Part 2: Introduction to dot Lib part2](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-2-introduction-to-dot-lib-part2)
-         - [Sub-Part 3: Introduction to dot Lib part3](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-3-introduction-to-dot-lib-part3)
+  -  [2 Day 2: Timing libs,hierarchical vs flat synthesis and efficient flat coding styles](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology//blob/main/README.md#day-2-timing-libshierarchical-vs-flat-synthesis-and-efficient-flat-coding-styles)
+      - [2.1 Part 1: Introduction to Timing .libs](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#part-1-introduction-to-timing-libs)
+         - [2.1.1 Sub-Part 1: Introduction to dot Lib part1](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-1-introduction-to-dot-lib-part1)
+         - [2.1.2 Sub-Part 2: Introduction to dot Lib part2](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-2-introduction-to-dot-lib-part2)
+         - [2.1.3 Sub-Part 3: Introduction to dot Lib part3](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-3-introduction-to-dot-lib-part3)
 
 
-      - [Part 2: Hierarchical vs. Flat synthesis](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#part-2-hierarchical-vs-flat-synthesis)
-         - [Sub-Part 1: Hier synthesis flat synthesis part1](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-1-hier-synthesis-flat-synthesis-part1)
-         - [Sub-Part 2: Hier synthesis flat synthesis part2](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-2-hier-synthesis-flat-synthesis-part2)
+      - [2.2 Part 2: Hierarchical vs. Flat synthesis](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#part-2-hierarchical-vs-flat-synthesis)
+         - [2.2.1 Sub-Part 1: Hier synthesis flat synthesis part1](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-1-hier-synthesis-flat-synthesis-part1)
+         - [2.2.2 Sub-Part 2: Hier synthesis flat synthesis part2](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-2-hier-synthesis-flat-synthesis-part2)
          
     
-      - [Part 3: Various flop coding styles and optimization](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#part-3-various-flop-coding-styles-and-optimization)
+      - [2.3 Part 3: Various flop coding styles and optimization](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#part-3-various-flop-coding-styles-and-optimization)
         
-         - [Sub-Part 1: Lab flop synthesis simulations part1](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-1-lab-flop-synthesis-simulations-part1)
-         - [Sub-Part 2: Lab flop synthesis simulations part2](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-2-lab-flop-synthesis-simulations-part2)
-         - [Sub-Part 3: Interesting optimisations part1](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-1-interesting-optimisations-part1)
-         - [Sub-Part 4: Interesting optimisations part2](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-2-interesting-optimisations-part2)
+         - [2.3.1 Sub-Part 1: Lab flop synthesis simulations part1](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-1-lab-flop-synthesis-simulations-part1)
+         - [2.3.2 Sub-Part 2: Lab flop synthesis simulations part2](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-2-lab-flop-synthesis-simulations-part2)
+         - [2.3.3 Sub-Part 3: Interesting optimisations part1](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-1-interesting-optimisations-part1)
+         - [2.3.4 Sub-Part 4: Interesting optimisations part2](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-2-interesting-optimisations-part2)
 
 
       
-    -  [Day 3: Combinational and Sequential optimizations](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#day-3-combinational-and-sequential-optimizations)
-       - [Part 1: Introduction to optimizations](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#part-1-introduction-to-optimizations)
-         - [Sub-Part 1: Introduction to optimizations Part 1](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-1-introduction-to-optimizations-part-1)
-         - [Sub-Part 2: Introduction to optimizations Part 2](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-2-introduction-to-optimizations-part-2)
+    -  [3 Day 3: Combinational and Sequential optimizations](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#day-3-combinational-and-sequential-optimizations)
+       - [3.1 Part 1: Introduction to optimizations](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#part-1-introduction-to-optimizations)
+         - [3.1.1 Sub-Part 1: Introduction to optimizations Part 1](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-1-introduction-to-optimizations-part-1)
+         - [3.1.2 Sub-Part 2: Introduction to optimizations Part 2](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-2-introduction-to-optimizations-part-2)
         
 
 
-       - [Part 2: Combinational Logic Optimisations](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#part-2-combinational-logic-optimisations)
-         - [Sub-Part 1: Combinational Logic Optimisations part1](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-1-combinational-logic-optimisations-part1)
-         - [Sub-Part 2: Combinational Logic Optimisations part2](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-2-combinational-logic-optimisations-part2)
+       - [3.2 Part 2: Combinational Logic Optimisations](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#part-2-combinational-logic-optimisations)
+         - [3.2.1 Sub-Part 1: Combinational Logic Optimisations part1](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-1-combinational-logic-optimisations-part1)
+         - [3.2.2 Sub-Part 2: Combinational Logic Optimisations part2](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-2-combinational-logic-optimisations-part2)
          
-       - [Part 3: Sequential Logic Optimisations](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#part-3-sequential-logic-optimisations)
-         - [Sub-Part 1: Sequential Logic Optimisations part1](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-1-sequential-logic-optimisations-part1)
+       - [3.3 Part 3: Sequential Logic Optimisations](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#part-3-sequential-logic-optimisations)
+         - [3.3.1 Sub-Part 1: Sequential Logic Optimisations part1](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-1-sequential-logic-optimisations-part1)
 
 
 
 
-       - [Part 4: Sequential Logic Optimisations for unused outputs](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#part-4-sequential-logic-optimisations-for-unused-outputs)
-         - [Sub-Part 1: Sequential Logic Optimisations part1](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-1-sequential-logic-optimisations-part1-1)
-         - [Sub-Part 2: Sequential Logic Optimisations part2](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-2-sequential-logic-optimisations-part2)
+       - [3.4 Part 4: Sequential Logic Optimisations for unused outputs](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#part-4-sequential-logic-optimisations-for-unused-outputs)
+         - [3.4.1 Sub-Part 1: Sequential Logic Optimisations part1](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-1-sequential-logic-optimisations-part1-1)
+         - [3.4.2 Sub-Part 2: Sequential Logic Optimisations part2](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-2-sequential-logic-optimisations-part2)
 
 
-     -  [Day 4: GLS, BLOCKING VS NON-BLOCKING and Synthesis Simulation Mismatch](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#day-4-gls-blocking-vs-non-blocking-and-synthesis-simulation-mismatch)
-        - [Part 1: GLS Synthesis Simulation mismatch and Blocking -Nonblocking statements](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#part-1-gls-synthesis-simulation-mismatch-and-blocking--nonblocking-statements)
-          - [Sub-Part 1: GLS Concepts And Flow Using Iverilog](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-1-gls-concepts-and-flow-using-iverilog)
-          - [Sub-Part 2: Synthesis Simulation Mismatch](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-2-synthesis-simulation-mismatch)
-          - [Sub-Part 3: Blocking And Non-Blocking Statements In Verilog](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-3-blocking-and-non-blocking-statements-in-verilog)
-        - [Part 2: Lab on GLS Synthesis and Simulation mismatch](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#part-2-lab-on-gls-synthesis-and-simulation-mismatch)
-          - [Sub-Part 1: Lab GLS Synth Sim Mismatch part1](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-1-lab-gls-synth-sim-mismatch-part1)
-          - [Sub-Part 2: Lab GLS Synth Sim Mismatch part2](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-2-lab-gls-synth-sim-mismatch-part2)
+     -  [4 Day 4: GLS, BLOCKING VS NON-BLOCKING and Synthesis Simulation Mismatch](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#day-4-gls-blocking-vs-non-blocking-and-synthesis-simulation-mismatch)
+        - [4.1 Part 1: GLS Synthesis Simulation mismatch and Blocking -Nonblocking statements](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#part-1-gls-synthesis-simulation-mismatch-and-blocking--nonblocking-statements)
+          - [4.1.1 Sub-Part 1: GLS Concepts And Flow Using Iverilog](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-1-gls-concepts-and-flow-using-iverilog)
+          - [4.1.2 Sub-Part 2: Synthesis Simulation Mismatch](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-2-synthesis-simulation-mismatch)
+          - [4.1.3 Sub-Part 3: Blocking And Non-Blocking Statements In Verilog](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-3-blocking-and-non-blocking-statements-in-verilog)
+        - [4.2 Part 2: Lab on GLS Synthesis and Simulation mismatch](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#part-2-lab-on-gls-synthesis-and-simulation-mismatch)
+          - [4.2.1 Sub-Part 1: Lab GLS Synth Sim Mismatch part1](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-1-lab-gls-synth-sim-mismatch-part1)
+          - [4.2.2 Sub-Part 2: Lab GLS Synth Sim Mismatch part2](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-2-lab-gls-synth-sim-mismatch-part2)
 
 
-        - [Part 3: Lab on Synth Sim mismatch and blocking statement](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#part-3-lab-on-synth-sim-mismatch-and-blocking-statement)
-          - [Sub-Part 1: Lab Synth sim mismatch blocking statement part1](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-1-lab-synth-sim-mismatch-blocking-statement-part1)
-          - [Sub-Part 2: Lab Synth sim mismatch blocking statement part2](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-2-lab-synth-sim-mismatch-blocking-statement-part2)
+        - [4.3 Part 3: Lab on Synth Sim mismatch and blocking statement](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#part-3-lab-on-synth-sim-mismatch-and-blocking-statement)
+          - [4.3.1 Sub-Part 1: Lab Synth sim mismatch blocking statement part1](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-1-lab-synth-sim-mismatch-blocking-statement-part1)
+          - [4.3.2 Sub-Part 2: Lab Synth sim mismatch blocking statement part2](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-2-lab-synth-sim-mismatch-blocking-statement-part2)
 
 
 
 
 
-     -  [Day 5: If,Case,For loop and For generate](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#day-5-ifcasefor-loop-and-for-generate)
-        - [Part 1: Lab on 'Incomplete IF Case'](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#part-1-lab-on-incomplete-if-case)
-          - [Sub-Part 1: Lab Incomplete IF part1](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-1-lab-incomplete-if-part1)
-          - [Sub-Part 2: Lab Incomplete IF part2](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-2-lab-incomplete-if-part2)
-        - [Part 2: Lab incomplete overlapping](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#part-2-lab-incomplete-overlapping)
+     -  [5 Day 5: If,Case,For loop and For generate](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#day-5-ifcasefor-loop-and-for-generate)
+        - [5.1 Part 1: Lab on 'Incomplete IF Case'](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#part-1-lab-on-incomplete-if-case)
+          - [5.1.1 Sub-Part 1: Lab Incomplete IF part1](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-1-lab-incomplete-if-part1)
+          - [5.1.2 Sub-Part 2: Lab Incomplete IF part2](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-2-lab-incomplete-if-part2)
+        - [5.2 Part 2: Lab incomplete overlapping](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#part-2-lab-incomplete-overlapping)
           
-          - [Sub-Part 1: Lab incomplete overlapping Case part1](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-1-lab-incomplete-overlapping-case-part1)
-          - [Sub-Part 2: Lab incomplete overlapping Case part2](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-2-lab-incomplete-overlapping-case-part2)  
-          - [Sub-Part 3: Lab incomplete overlapping Case part3](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-3-lab-incomplete-overlapping-case-part3)
+          - [5.2.1 Sub-Part 1: Lab incomplete overlapping Case part1](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-1-lab-incomplete-overlapping-case-part1)
+          - [5.2.2 Sub-Part 2: Lab incomplete overlapping Case part2](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-2-lab-incomplete-overlapping-case-part2)  
+          - [5.2.3 Sub-Part 3: Lab incomplete overlapping Case part3](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-3-lab-incomplete-overlapping-case-part3)
          
      -  [ACKNOWLEDGEMENT](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#acknowledgement)
           
