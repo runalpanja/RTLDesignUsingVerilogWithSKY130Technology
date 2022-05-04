@@ -101,7 +101,7 @@
           - [Sub-Part 2: Lab incomplete overlapping Case part2](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-2-lab-incomplete-overlapping-case-part2)  
           - [Sub-Part 3: Lab incomplete overlapping Case part3](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#sub-part-3-lab-incomplete-overlapping-case-part3)
          
-     -  [ACKNOWLEDGEMENT]()
+     -  [ACKNOWLEDGEMENT](https://github.com/runalpanja/RTLDesignUsingVerilogWithSKY130Technology/blob/main/README.md#acknowledgement)
           
      
 
