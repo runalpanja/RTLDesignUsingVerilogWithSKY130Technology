@@ -1362,7 +1362,7 @@ As we can above, the hierarchies are flattened out....
 
 I would like to heartily thank the team of VLSI System Design and Chipspirit for this collaborative workshop. The sessions very well structured and I'm looking forward to attend more future events.This was my 2nd participation with VSD.The first was in February,2022 i.e 'Analog IC Hackathon' organised jointly by VSD, Synopsys and IIT Hyderabad.This sort of technical activities spread the VLSI temperament all across the nation. More and more budding engineers get the feel of real world VLSI even before getting into the industry.
 
-I express my gratitude to Mr. Kunal Ghosh and Mr. Shon Taware for helping us out with the flow and technical issues. I wish VSD and Chipspirit team all the very best for their **MAKE IN INDIA** vision. Keeping fingers crossed !!!!
+I express my gratitude to [Mr. Kunal Ghosh](https://github.com/kunalg123) and [Mr. Shon Taware](https://github.com/ShonTaware) for helping us out with the flow and technical issues. I wish VSD and Chipspirit team all the very best for their **MAKE IN INDIA** vision. Keeping fingers crossed !!!!
 
 
 
